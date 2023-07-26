@@ -258,7 +258,7 @@ h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
-  width: 100%;
+  width: 100vw;
   height: 100vh;
   background: url("../img/desk.png") center;
   background-size: cover;
