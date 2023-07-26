@@ -292,6 +292,7 @@ h6 {
 
 #hero h2 {
   color: purple;
+  margin-top: 5vw;
   margin-left: 12vw;
   font-size: 1.5vw;
   font-family: "Poppins", sans-serif;
@@ -302,7 +303,7 @@ h6 {
 
   margin-right: 3vw;
   margin-left: 13vw;
-  font-size: 1.7vw;
+  font-size: 24px;
   font-family: "Poppins", sans-serif;
 }
 
