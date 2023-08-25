@@ -635,6 +635,31 @@ section {
   transition: 0.9s;
 }
 
+#cert button{
+  color: #050d18;
+  background-color: palevioletred;
+  border-radius: 10px;
+  width: 150px;
+  font-size: 15px;
+  position: relative;
+  transition: 0.9s;
+  margin-left: 4vw;
+  font-weight: 600;
+}
+
+#cert button:active{
+  top: 2px;
+}
+
+#cert button a:hover{
+  bottom: 1px;
+  font-weight: bold;
+  background-color: palevioletred;
+  border-color: purple;
+  transition: 0.9s;
+  color: #050d18;
+}
+
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
